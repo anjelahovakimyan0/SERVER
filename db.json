@@ -1,25 +1,11 @@
 {
   "items": [
     {
-      "id": 1,
-      "image": "assets/images/products/image1.jpg",
-      "name": "Black Hoodie",
-      "price": "24",
-      "rating": 5
-    },
-    {
       "id": 2,
       "name": "Branded Shoes",
       "image": "assets/images/products/image2.jpg",
       "price": "13.5",
       "rating": 4
-    },
-    {
-      "id": 3,
-      "image": "assets/images/products/image3.jpg",
-      "name": "White",
-      "price": "85.0",
-      "rating": 3
     },
     {
       "id": 4,
